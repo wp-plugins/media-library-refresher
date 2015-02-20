@@ -14,7 +14,9 @@ Regenerates missing Media Library thumbnails. If your Media Library is showing i
 
 This plugin will regenerate missing Media Library thumbnails. If your Media Library is showing images, but not showing the thumbnails this plugin will fix that.
 
-If you've moved your WordPress site and used the [Add From Server](https://wordpress.org/plugins/add-from-server/) plugin so that that now your Media Library is showing all the images, but none of the thumbnails this plugin is for you. See the screenshots for examples.
+If you've moved a WordPress site and had to move the Uploads folder manually, you may have used the [Add From Server](https://wordpress.org/plugins/add-from-server/) plugin, but this can sometimes import your photos, however none of the thumbnails (see screenshots for example). This plugin will regenerate those thumbnails for you.
+
+This plugin is different from AJAX thumbnail rebuild and Renegerate Thumbnails because those will not fix your issue, this is made specifically to fix this specific problem.
 
 Simply install this plugin then visit it at Settings > Media Library Refresher to get started.
 
